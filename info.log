@@ -1,0 +1,14 @@
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Card with id 2 not found.","level":"error"}
+{"message":"Card with id d7666eaa-704d-4702-82f2-b65280284b06 created","level":"info"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Card with id d7666eaa-704d-4702-82f2-b65280284b06  not found.","level":"error"}
+{"message":"Card with id 2 not found.","level":"error"}
+{"message":"Header is required","level":"error"}
+{"message":"List with id bbd1ab39-acd9-4f60-a5fb-01fa7ca0110f created","level":"info"}
+{"message":"List with id 749554e4-1d74-4ecf-8c83-eb2dfa4f71f8 created","level":"info"}
